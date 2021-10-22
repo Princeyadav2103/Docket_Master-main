@@ -125,31 +125,3 @@ _MySQL_ content borrowed from <a target="_blank" rel="noopener noreferrer">[this
 **Handlebars** is a simple _templating language_. It uses a template and an input object to generate HTML or other text formats. Handlebars templates look like regular text with embedded Handlebars expressions.
 
 _Handlebars_ content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://handlebarsjs.com/guide/).</a>
-
-### Collaborators
-
-_Docket Master_ was conceived, created, and coded by:
-
-|                   _TEAM_                   |           _Members_           |
-| :----------------------------------------: | :---------------------------: |
-|          :cat: Alize Hassan :cat:          |  :bulb: James Howard :bulb:   |
-| :green_heart: Eric D. Torres :green_heart: | :beer: Shane Schilling :beer: |
-
-![DOCKET MASTER ABOUT TEAM](./public/assets/img/readme/docketmaster-about.png)
-
-Check out our GitHub profiles:
-
-- [Alize Hassan](https://github.com/alizehssn);
-- [James Howard](https://github.com/jth2698);
-- [Eric D. Torres](https://github.com/etorres-revature);
-- [Shane Schilling](https://github.com/trilambda122).
-
-## Questions
-
-You can contact Eric D. Torres by e-mail at etorresnotary@gmail.com for any additional questions and/ or clarifications you may need about the project.
-
-##### License
-
-[This application uses the **GNU Affero General Public License v3.0** found here](./LICENSE).
-
-**[This README.md file generated with my NODE.js README Generator app.](https://github.com/etorres-revature/NODEjs_README.md_Generator)**
